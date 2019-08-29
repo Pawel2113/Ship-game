@@ -22,5 +22,6 @@ class MainTest {
     void controlNotNumbers() {
         assertEquals(0, main.control("sag","htreg"));
     }
+
     
 }
